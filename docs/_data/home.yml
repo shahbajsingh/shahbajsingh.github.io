@@ -6,46 +6,43 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.github.com/shahbajsingh
+    url: https://www.shahbajsingh.github.co
 
 project_entries:
-  - title: Privacy Advisor Bot
-    url: https://github.com/shahbajsingh/privacy-advisor-bot
-    desc: Reddit bot to generate a randomized quote about privacy and provide a link to privacytools.io
-
-  - title: Trump Bot
-    url: https://github.com/shahbajsingh/trump-bot
-    desc: Reddit bot that searches top/hot posts in a given subreddit and scrapes through comments for a keyword, 
-    replying with a random quote from the 45th President of the United States Donald J. Trump.
-
-  - title: JFX Calculator
-    url: https://github.com/shahbajsingh/JFXCalculator
-    desc: Basic calculator
-
-  - title: JFX Tic Tac Toe
-    url: https://github.com/shahbajsingh/JFXTicTacToe
-    desc: Basic tic-tac-toe game played on a single desktop
-    highlight: WIP
-
-  - title: https://github.com/shahbajsingh/sp500-screener
+  - title: Project 1
     url: overview-post
-    desc: This project is an alternative version of the S&P 500 in which each company has the same weight
+    desc: This is an example project, configured in _data/home.yml
+
+  - title: Project 2
+    url: overview-post
+    desc: Projects are shown in card layout
+
+  - title: Project 3
+    url: overview-post
+    desc: You can control visibility from _config.yml file
+
+  - title: Project 4
+    url: overview-post
+    desc: This project uses highlight markup, configured in _data/home.yml
     highlight: WIP
 
-  - title: Reddit Scraper
-    url: https://github.com/shahbajsingh/reddit-scraper
-    desc:  Scrapes top posts from a given subreddit using pandas and Reddit's PRAW API 
+  - title: Project 5
+    url: overview-post
+    desc: Moonwalk also has horizontal list (used in header and footer)
+    highlight: WIP
+
+  - title: Project 6
+    url: overview-post
+    desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
   - title: MIPS Number Sort
     url: https://github.com/shahbajsingh/MIPS-NumberSort
-    desc: Number Sorter in Mips 
-    highlight: NEW
-
+    desc: Basic Odd/Even Sorter
 
 footer_entries:
-  - title: shahbaj's homepage
-    url: https://www.shahbajsingh.github.io
+  - title: linkedin
+    url: https://www.linkedin.com/in/shahbaj-singh-84b12a202/
 
   - title: twitter
     url: https://twitter.com/rpmoat
@@ -70,9 +67,11 @@ misc_entries:
     post_list: true
     url: false
 
-  - title: surf the kaliyuga
+  - title: Find Me
     url: false
     entries:
+      - title: on Github
+        url: https://github.com/shahbajsingh
 
       - title: this list is scalable and can be nested
         url: false
@@ -82,5 +81,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-

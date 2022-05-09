@@ -8,7 +8,7 @@ twitter_username: rpmoat
 github_username:  shahbajsingh
 
 # Build settings
-remote_theme: johno/pixel
+remote_theme: benbalter/retlab
 
 plugins:
   - jekyll-paginate

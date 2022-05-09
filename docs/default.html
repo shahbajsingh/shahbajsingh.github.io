@@ -21,17 +21,9 @@
           •
           &nbsp;
           {%- endif -%}
-          Theme&nbsp; <a href="https://github.com/abhinavs/moonwalk" target="_blank" rel="noreferrer">Moonwalk</a>
+          Theme&nbsp; <a href="https://github.com/shahbajsingh" target="_blank" rel="noreferrer">Github</a>
         </div>
       </div>
     </main>
-
-    {%- if site.soopr -%}
-      {%- if site.soopr.publish_token and jekyll.environment == "production" -%}
-        <script async defer data-soopr-token="{{site.soopr.publish_token}}" src="https://sdk.soopr.co/soopr.js"></script>
-      {%- else -%}
-        <script async defer src="https://sdk.soopr.co/soopr.js"></script>
-      {%- endif -%}
-    {%- endif -%}
   </body>
 </html>

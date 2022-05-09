@@ -31,8 +31,8 @@ project_entries:
     desc: Desktop-application for encrypting messages between users
 
   - title: Overview
-    url: overview-post
-    desc: Scaleable
+    url: gradients
+    desc: Gradient Functions
 
 old_project_entries:
   - title: MIPS Number Sort

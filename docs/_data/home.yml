@@ -11,29 +11,28 @@ navbar_entries:
 project_entries:
   - title: Privacy Advisor Bot
     url: https://github.com/shahbajsingh/privacy-advisor-bot
-    desc: This is an example project, configured in _data/home.yml
+    desc: Reddit bot to generate a randomized quote about privacy and provide a link to privacytools.io
 
   - title: JFX Calculator
     url: https://github.com/shahbajsingh/JFXCalculator
-    desc: Projects are shown in card layout
+    desc: Basic four-function calculator configured for double-precision
 
   - title: Trump Bot
     url: https://github.com/shahbajsingh/trump-bot
-    desc: You can control visibility from _config.yml file
+    desc: Reddit bot that searches top/hot posts in a given subreddit and scrapes through comments for a keyword, replying with a random quote from the 45th President of the United States Donald J. Trump.
 
   - title: Reddit Scraper
     url: https://github.com/shahbajsingh/reddit-scraper
-    desc: This project uses highlight markup, configured in _data/home.yml
+    desc: Scrapes top posts from a given subreddit using pandas and Reddit's PRAW API 
     highlight: WIP
 
   - title: Message Encrypter
     url: https://github.com/dkkumar77/MessageEncrypter
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+    desc: Desktop-application for encrypting messages between users
 
   - title: Overview
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: Scaleable
 
 old_project_entries:
   - title: MIPS Number Sort

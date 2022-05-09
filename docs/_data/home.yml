@@ -36,32 +36,21 @@ project_entries:
     desc: It also has a scalable vertical list (in case you need it)
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+  - title: MIPS Number Sort
+    url: https://github.com/shahbajsingh/MIPS-NumberSort
+    desc: Number Sorter in Mips 
     highlight: NEW
 
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: shahbaj's homepage
+    url: https://www.shahbajsingh.github.io
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/rpmoat
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/shahbajsingh
 
   - title: feed
     url: feed.xml
@@ -80,14 +69,9 @@ misc_entries:
     post_list: true
     url: false
 
-  - title: moonwalk on the Internet
+  - title: surf the kaliyuga
     url: false
     entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
 
       - title: this list is scalable and can be nested
         url: false

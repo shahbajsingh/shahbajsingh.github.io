@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Abhinav Saxena
+author: Shahbaj Singh
 ---
 
 Lorem ipsum[^1] dolor sit amet, consectetur adipiscing elit. Pellentesque vel lacinia neque. Praesent nulla quam, ullamcorper in sollicitudin ac, molestie sed justo. Cras aliquam, sapien id consectetur accumsan, augue magna faucibus ex, ut ultricies turpis tortor vel ante. In at rutrum tellus.
@@ -71,7 +71,7 @@ Now a table:
 
 ## Images
 
-![theme logo](http://www.abhinavsaxena.com/images/abhinav.jpeg)
+![theme logo](https://user-images.githubusercontent.com/75505093/167343861-32f7d039-1e7f-43f7-b031-5728004e44ad.gif)
 
 This is an image[^4]
 

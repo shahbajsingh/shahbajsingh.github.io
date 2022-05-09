@@ -2,14 +2,13 @@
 title: Shahbaj Singh
 email: shahbajs987@gmail.com
 description: >- 
-  20 yo | NJ | NJIT Data Science
 baseurl: "" # subpath of site, e.g. /blog
 url: www.github.shahbajsingh.io" 
 twitter_username: rpmoat
 github_username:  shahbajsingh
 
 # Build settings
-remote_theme: chesterhow/tale
+remote_theme: johno/pixel
 
 plugins:
   - jekyll-paginate

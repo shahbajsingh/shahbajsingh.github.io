@@ -9,7 +9,7 @@ twitter_username: rpmoat
 github_username:  shahbajsingh
 
 # Build settings
-theme: midnight
+theme: jekyll-theme-midnight
 plugins:
   - jekyll-feed
 

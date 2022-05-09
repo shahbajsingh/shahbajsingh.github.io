@@ -6,62 +6,48 @@ navbar_entries:
     url: blog
 
   - title: website
-    url: https://www.abhinav.co
+    url: https://www.shahbajsingh.github.io/index.html
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Privacy Advisor Bot
+    url: https://github.com/shahbajsingh/privacy-advisor-bot
+    desc: Reddit bot to generate a randomized quote about privacy and provide a link to privacytools.io
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: JFX Calculator
+    url: https://github.com/shahbajsingh/JFXCalculator
+    desc: Basic four-function calculator configured for double-precision
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: Trump Bot
+    url: https://github.com/shahbajsingh/trump-bot
+    desc: Reddit bot that searches top/hot posts in a given subreddit and scrapes through comments for a keyword, replying with a random quote from the 45th President of the United States Donald J. Trump.
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+  - title: Reddit Scraper
+    url: https://github.com/shahbajsingh/reddit-scraper
+    desc: Scrapes top posts from a given subreddit using pandas and Reddit's PRAW API 
     highlight: WIP
 
-  - title: Project 5
-    url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
-    highlight: WIP
+  - title: Message Encrypter
+    url: https://github.com/dkkumar77/MessageEncrypter
+    desc: Desktop-application for encrypting messages between users
 
-  - title: Project 6
+  - title: Overview
     url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+    desc: Scaleable
 
 old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
-  - title: Cookie
-    url: https://github.com/abhinavs/cookie
-    desc: An open source landing website with supporting pages and integrated blog
-
-  - title: Moonwalk
-    url: https://github.com/abhinavs/moonwalk
-    desc: A fast and minimalist Jekyll blog theme with clean dark mode
-
-  - title: Humangous
-    url: https://www.humangous.co
-    desc: The better people know you, the better they collaborate
+  - title: MIPS Number Sort
+    url: https://github.com/shahbajsingh/MIPS-NumberSort
+    desc: Basic Odd/Even Sorter
 
 footer_entries:
-  - title: abhinav's homepage
-    url: https://www.abhinav.co
+  - title: linkedin
+    url: https://www.linkedin.com/in/shahbaj-singh-84b12a202/
 
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/rpmoat
 
   - title: github
-    url: https://github.com/abhinavs
+    url: https://github.com/shahbajsingh
 
   - title: feed
     url: feed.xml
@@ -80,14 +66,11 @@ misc_entries:
     post_list: true
     url: false
 
-  - title: moonwalk on the Internet
+  - title: Find Me
     url: false
     entries:
       - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
+        url: https://github.com/shahbajsingh
 
       - title: this list is scalable and can be nested
         url: false
@@ -97,5 +80,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-

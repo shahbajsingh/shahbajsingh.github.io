@@ -9,31 +9,32 @@ navbar_entries:
     url: https://www.github.com/shahbajsingh
 
 project_entries:
-  - title: Project 1
-    url: overview-post
-    desc: This is an example project, configured in _data/home.yml
+  - title: Privacy Advisor Bot
+    url: https://github.com/shahbajsingh/privacy-advisor-bot
+    desc: Reddit bot to generate a randomized quote about privacy and provide a link to privacytools.io
 
-  - title: Project 2
-    url: overview-post
-    desc: Projects are shown in card layout
+  - title: Trump Bot
+    url: https://github.com/shahbajsingh/trump-bot
+    desc: Reddit bot that searches top/hot posts in a given subreddit and scrapes through comments for a keyword, 
+    replying with a random quote from the 45th President of the United States Donald J. Trump.
 
-  - title: Project 3
-    url: overview-post
-    desc: You can control visibility from _config.yml file
+  - title: JFX Calculator
+    url: https://github.com/shahbajsingh/JFXCalculator
+    desc: Basic calculator
 
-  - title: Project 4
-    url: overview-post
-    desc: This project uses highlight markup, configured in _data/home.yml
+  - title: JFX Tic Tac Toe
+    url: https://github.com/shahbajsingh/JFXTicTacToe
+    desc: Basic tic-tac-toe game played on a single desktop
     highlight: WIP
 
-  - title: Project 5
+  - title: https://github.com/shahbajsingh/sp500-screener
     url: overview-post
-    desc: Moonwalk also has horizontal list (used in header and footer)
+    desc: This project is an alternative version of the S&P 500 in which each company has the same weight
     highlight: WIP
 
-  - title: Project 6
-    url: overview-post
-    desc: It also has a scalable vertical list (in case you need it)
+  - title: Reddit Scraper
+    url: https://github.com/shahbajsingh/reddit-scraper
+    desc:  Scrapes top posts from a given subreddit using pandas and Reddit's PRAW API 
 
 old_project_entries:
   - title: MIPS Number Sort

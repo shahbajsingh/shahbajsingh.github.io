@@ -1,32 +1,27 @@
-# Header
+# Minimal Mistakes remote theme starter
 
-<p>This text is an example to test formatting in github pages</p>
+Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
-> Block quote line 1
-> > Nest quote line one
-> > > Nested further one level
+Contains basic configuration to get you a site with:
 
-![synthwave](https://user-images.githubusercontent.com/75505093/168199563-48509191-07e4-4a4b-bc37-965950074915.gif)
+- Sample posts.
+- Sample top navigation.
+- Sample author sidebar with social links.
+- Sample footer links.
+- Paginated home page.
+- Archive pages for posts grouped by year, category, and tag.
+- Sample about page.
+- Sample 404 page.
+- Site wide search.
 
-<i>This is a gif</i>
+Replace sample content with your own and [configure as necessary](https://mmistakes.github.io/minimal-mistakes/docs/configuration/).
 
-<br />
+---
 
-<p>This is an example of a table in markdown:</p>
- <table>
-  <tr>
-    <th>Name</th>
-    <th>Division</th>
-    <th>State</th>
-  </tr>
-  <tr>
-    <td>Tony Soprano</td>
-    <td>Waste Management</td>
-    <td>New Jersey</td>
-  </tr>
-  <tr>
-    <td>Tony Montana</td>
-    <td>Risk & Liability</td>
-    <td>Florida</td>
-  </tr>
-</table> 
+## Troubleshooting
+
+If you have a question about using Jekyll, start a discussion on the [Jekyll Forum](https://talk.jekyllrb.com/) or [StackOverflow](https://stackoverflow.com/questions/tagged/jekyll). Other resources:
+
+- [Ruby 101](https://jekyllrb.com/docs/ruby-101/)
+- [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
+- [Configuring GitHub Metadata](https://github.com/jekyll/github-metadata/blob/master/docs/configuration.md#configuration) to work properly when developing locally and avoid `No GitHub API authentication could be found. Some fields may be missing or have incorrect data.` warnings.

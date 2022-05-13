@@ -3,7 +3,6 @@
 <p>This text is an example to test formatting in github pages</p>
 
 > Block quote line 1
-> Block quote line 2
 > > Nest quote line one
 > > > Nested further one level
 

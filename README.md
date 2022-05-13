@@ -11,3 +11,22 @@
 <i>This is a gif</i>
 
 <br />
+
+<p>This is an example of a table in markdown:</p>
+ <table>
+  <tr>
+    <th>Company</th>
+    <th>Division</th>
+    <th>State</th>
+  </tr>
+  <tr>
+    <td>Tony Soprano</td>
+    <td>Waste Management</td>
+    <td>New Jersey</td>
+  </tr>
+  <tr>
+    <td>Tony Montana</td>
+    <td>Risk & Liability</td>
+    <td>Florida</td>
+  </tr>
+</table> 

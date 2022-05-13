@@ -15,7 +15,7 @@
 <p>This is an example of a table in markdown:</p>
  <table>
   <tr>
-    <th>Company</th>
+    <th>Name</th>
     <th>Division</th>
     <th>State</th>
   </tr>

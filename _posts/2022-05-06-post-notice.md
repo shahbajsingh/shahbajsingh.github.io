@@ -1,5 +1,5 @@
 ---
-title: "Post: Formatting Guide"
+title: "Formatting Guide"
 categories:
   - Misc.
 tags:

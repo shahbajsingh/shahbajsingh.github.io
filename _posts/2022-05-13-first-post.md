@@ -1,10 +1,9 @@
 ---
-title: "Post: Formatting Guide"
+title: "First Post"
 categories:
   - Misc.
 tags:
-  - formatting
-  - misc
+  - announcement
 ---
 
 <h2>Welcome to my wesbite</h2>
@@ -26,5 +25,5 @@ tags:
     ![fractal1](/assets/posts/fractal.gif)
     ![fractal2](/assets/posts/fractal2.gif)
     ![fractal3](/assets/posts/fractal3.gif)
-
+    
 </div>

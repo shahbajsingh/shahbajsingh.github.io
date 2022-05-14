@@ -7,7 +7,7 @@ tags:
   - misc
 ---
 
-<h1>Welcome to my wesbite</h2>
+<h2>Welcome to my wesbite</h2>
 
 <br />
 

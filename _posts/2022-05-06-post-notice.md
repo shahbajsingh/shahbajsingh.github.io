@@ -1,10 +1,10 @@
 ---
-title: "Post: Notice"
+title: "Post: Formatting Guide"
 categories:
-  - Blog
+  - Misc.
 tags:
-  - Post Formats
-  - notice
+  - formatting
+  - misc
 ---
 
 A notice displays information that explains nearby content. Often used to call attention to a particular detail.

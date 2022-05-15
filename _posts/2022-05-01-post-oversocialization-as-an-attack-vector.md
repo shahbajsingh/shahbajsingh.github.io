@@ -12,7 +12,10 @@ tags:
 
 <br />
 
-<h2>Oversocialization as an Attack Vector</h2>
+<cite><a href="https://en.wiktionary.org/wiki/oversocialized"><i>Oversocialized</i></a></cite>
+
+> Adjective
+> 1. Assimilated too far into society.
 
 <br />
 

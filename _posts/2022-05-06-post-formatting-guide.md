@@ -1,5 +1,5 @@
 ---
-title: "Formatting Guide"
+title: "Formatting in Markdown"
 categories:
   - Misc.
 tags:
@@ -70,17 +70,6 @@ Or you could skip the capture and stick with straight HTML.
 <p>Embedding an image</p>
 ![fractial](/assets/posts/fractal.gif){:class="img-responsive"}
 
----
-__Advertisement :)__
-
-- __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
-  resize in browser.
-- __[babelfish](https://github.com/nodeca/babelfish/)__ - developer friendly
-  i18n with plurals support and easy syntax.
-
-You will like those projects!
-
----
 
 # h1 Heading 8-)
 ## h2 Heading
@@ -171,7 +160,7 @@ Indented code
     line 1 of code
     line 2 of code
     line 3 of code
-
+    line 4 of code
 
 Block code "fences"
 

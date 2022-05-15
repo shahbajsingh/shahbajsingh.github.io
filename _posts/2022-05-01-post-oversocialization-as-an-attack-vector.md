@@ -13,7 +13,7 @@ tags:
 <br />
 
 > <a href="https://en.wiktionary.org/wiki/oversocialized"><i>Oversocialized (adj.)</i></a>
-> 1. Assimilated too far into society.
+> Assimilated too far into society.
 
 <br />
 
@@ -37,7 +37,7 @@ tags:
 
 <br />
 
-<p>The first social media networks, MySpace and Facebook, were released in 2003 and 2004 respectively; the rates of suicide and depression, as discussed in <i>The Social Dilemma</i>, notably across younger demographics, analogously have increased since 2010. Pre-teens are almost 3 times more susceptible to such influence. Nowadays, there are social media influencers that promote and influence products or ideas, taking the place of role models for younger generations as they become socialized to the world in a uniquely unordinary way. Influencers like Summer Ray and other Instagram, Twitter, and TikTok celebrities negatively promote such body images. These perceptions cause young girls with body dysmorphia promoting plastic surgery. However, we must question before accusing, are these trends correlated? Only afterwards can we begin inspecting proportions and assigning fault.
+<p>The first social media networks, MySpace and Facebook, were released in 2003 and 2004 respectively; the rates of suicide and depression, as discussed in <i>The Social Dilemma</i>, notably across younger demographics, analogously have increased since 2010. Pre-teens are almost 3 times more susceptible to such influence. Nowadays, there are social media influencers that promote and influence products or ideas, taking the place of role models for younger generations as they become socialized to the world in a uniquely unordinary way. However, we must question before accusing, are these trends correlated? Only afterwards can we begin inspecting proportions and assigning fault.
 The overwhelming legal power of the corporations behind these platforms must first be addressed and dismissed, as their stream of revenue itself is a function of their psychological engineering; the ruling between a crowd of lawyers in a court of law does not constitute what is factually and morally correct. It must be made clear that Meta, Google, Apple, and other entities absolutely are exploiting petabytes upon petabytes of data to leverage the world population to the advantage of their shareholders; however ‘legal’ this might be, it does not excuse it from scientific scrutiny.</p>
 
 <br />

@@ -12,7 +12,7 @@ tags:
 
 <br />
 
-<a href="https://en.wiktionary.org/wiki/oversocialized"> __Oversocialized__ (adj.)></a><br />
+<a href="https://en.wiktionary.org/wiki/oversocialized"> __Oversocialized__ (adj.)</a><br />
 
 > _Assimilated too far into society._
 

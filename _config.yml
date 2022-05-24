@@ -51,9 +51,9 @@ author:
   name   : "Shahbaj Singh"
   avatar : "/assets/images/me2-min2.png"
   bio    : "I am a third-year undergraduate at NJIT completing a B.S. in Data Science;
-            I plan on thereafter pursuing my masters in data science with a computational focus."
+            I plan on thereafter pursuing my masters in data science."
   links:
-    - label: "E-mail Me"
+    - label: "Email Me"
       icon: "fas fa-fw fa-link"
       url: "mailto:shahbajs987@gmail.com?subject=From Website"
     - label: "Twitter"

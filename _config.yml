@@ -51,14 +51,14 @@ author:
   name   : "Shahbaj Singh"
   avatar : "/assets/images/me5.png"
   bio    : "I am a third-year undergraduate at NJIT completing a B.S. in Data Science;
-            I plan on thereafter pursuing my masters in data science."
+            I plan on thereafter pursuing graduate school for a M.S."
   links:
     - label: "Email Me"
       icon: "fas fa-fw fa-link"
       url: "mailto:shahbajs987@gmail.com?subject=From Website"
-    - label: "Twitter"
+    - label: "DM on Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mflo444"
+      url: "https://twitter.com/messages/compose?recipient_id=2681523565&text=Hey%20Shahbaj"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shahbajsingh"

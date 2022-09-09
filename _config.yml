@@ -9,7 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-twitter_username: mflo444
+# twitter_username: mflo444
 github_username: shahbajsingh
 minimal_mistakes_skin: default
 search: true
@@ -50,8 +50,7 @@ plugins:
 author:
   name   : "Shahbaj Singh"
   avatar : "/assets/images/me5.png"
-  bio    : "I am a third-year undergraduate at NJIT completing a B.S. in Data Science;
-            I plan on thereafter pursuing graduate school for a M.S."
+  bio    : "I am a third-year undergraduate student at NJIT working towards a bachelor's in Data Science"
   links:
     - label: "Email Me"
       icon: "fas fa-fw fa-link"
@@ -62,21 +61,21 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shahbajsingh"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/realshahbajsingh"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/realshahbajsingh"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mflo444"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/mflo444"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shahbajsingh"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/realshahbajsingh"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   url: "https://instagram.com/realshahbajsingh"
 
 defaults:
   # _posts

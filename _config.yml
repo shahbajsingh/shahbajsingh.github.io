@@ -9,7 +9,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-# twitter_username: mflo444
+# twitter_username: 
 github_username: shahbajsingh
 minimal_mistakes_skin: default
 search: true
@@ -55,21 +55,21 @@ author:
     - label: "Email Me"
       icon: "fas fa-fw fa-link"
       url: "mailto:shahbajs987@gmail.com?subject=From Website"
-    - label: "DM on Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/messages/compose?recipient_id=2681523565&text=Hey%20Shahbaj"
+    # - label: "DM on Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/messages/compose?recipient_id=[ID_GOES_HERE]&text=Hey%20Shahbaj"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shahbajsingh"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/realshahbajsingh"
+#      url: "https://instagram.com/[ID_GOES_HERE]"
 
 footer:
   links:
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/mflo444"
+    #   url: "https://twitter.com/[ID_GOES_HERE]"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/shahbajsingh"

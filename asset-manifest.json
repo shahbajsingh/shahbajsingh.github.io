@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.8c636550.css",
+    "main.js": "/react-gh-pages/static/js/main.36e8a8f7.js",
+    "static/js/453.385db9a3.chunk.js": "/react-gh-pages/static/js/453.385db9a3.chunk.js",
+    "static/media/profile.jpg": "/react-gh-pages/static/media/profile.81e128a160bef40a1f35.jpg",
+    "static/media/about2.png": "/react-gh-pages/static/media/about2.99020c415d498221e281.png",
+    "static/media/2024 Resume.pdf": "/react-gh-pages/static/media/2024 Resume.454b18a6b4ea199d67ad.pdf",
+    "static/media/testimonial2.png": "/react-gh-pages/static/media/testimonial2.d275c33a465eceb87cde.png",
+    "static/media/testimonial3.jpg": "/react-gh-pages/static/media/testimonial3.314f5373ecdbd854fce3.jpg",
+    "static/media/testimonial1.jpg": "/react-gh-pages/static/media/testimonial1.b719bef0285ce2a89ab3.jpg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.8c636550.css.map": "/react-gh-pages/static/css/main.8c636550.css.map",
+    "main.36e8a8f7.js.map": "/react-gh-pages/static/js/main.36e8a8f7.js.map",
+    "453.385db9a3.chunk.js.map": "/react-gh-pages/static/js/453.385db9a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8c636550.css",
+    "static/js/main.36e8a8f7.js"
+  ]
+}
